@@ -1,0 +1,1 @@
+# cpp-compare-test
