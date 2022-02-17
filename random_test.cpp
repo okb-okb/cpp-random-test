@@ -5,7 +5,7 @@
 
 namespace fs = std::filesystem;
 
-const std::string dir_name = "compare_test"; // Directory for output file
+const std::string dir_name = "random_test"; // Directory for output file
 const std::string code_1 = "sample_1.cpp"; // Path to your C++ code
 const std::string code_2 = "sample_2.cpp"; // Path to your C++ code
 
